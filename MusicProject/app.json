@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0"
+  },
+  "name": "y",
+  "displayName": "Corbify",
+  "icon": {
+    "ios": "AppIcon.png",
+    "android": "ic_launcher.png",
+    "default": "ic_launcher.png"
+  }
+}
