@@ -3,24 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_73f6f381d20a77cd4cd726f6d269fb372a480b9c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_6a20e0a679e2f8b81ce8d513d9fac756e8d5b1a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\gicorbis\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -39,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gicorbis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_eba403fb545fb9bf9103a4814bed4b2f27c82508.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,21 +39,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_11bb08d6de982f066be07dff5b08d23eafebe322.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
         <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6ba9a65deda69db50544e36084c629240714ba54.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_dacfa0e7526aa5b22d77a7f170d9bd1db7268b2c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,24 +72,6 @@
         revision="23.0.1"
         sha1="8a503964faaa2f3a4e6e5d4a7100d3cce7b28596">
         <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\y-react-native-audio-streaming-unspecified_7cc65f59b4225c8d61046a43f19382cce3834708.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.16.1_db09bbcc63c1ea8feff432a96d200087ad2eb2b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_3b37d7f39c6c9a78328f42d6335b17da89d727bc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -129,15 +102,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_cffb5727d7876b802e9b6600b3ccb403d59b22a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-vector-icons\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -165,15 +129,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_9012c4b729e0ad892225351d47657d445398a4a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-audio-streaming\unspecified\jars\libs\aacdecoder-android-0.8.jar"
         jumboMode="false"
         optimize="true"
@@ -189,15 +144,6 @@
         revision="23.0.1"
         sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
         <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_28571876df1a7ecbe05bb81691793c7f4e7e3443.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_5542f258c72b4c20ecbcfd87e7d6f992f717b0aa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -246,21 +192,21 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_c73f309ab59950182abf79da13af5fa08b612d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
         <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_661f73219a5406dfd2cb60fae084d8c11c2a02ca.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-facebook-login\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0e541f3efe2bc07308e1bc32ffb8143feeee8a55">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\y-react-native-facebook-login-unspecified_f72de27402d329a0d7998466cd45734c0f0de89f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -273,12 +219,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jar="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ebf8b1ccaf828d66921c5f37567eba8da13acbc5.jar" />
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_227c4c3fcc0990aac2e1eb5a4b01f0e10733aed2.jar" />
     </item>
 
 </items>

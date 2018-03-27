@@ -8,7 +8,9 @@ import { ReactNativeAudioStreaming } from 'react-native-audio-streaming';
 //ReactNativeAudioStreaming.play({this.props.url}, {showIniOSMediaCenter: true, showInAndroidNotifications: true});
 //ReactNativeAudioStreaming.stop();
 
-import { Player } from 'react-native-audio-streaming';
+//import { Player } from 'react-native-audio-streaming';
+import Player from './Player';
+
 
 export default class Streaming extends React.Component {
 

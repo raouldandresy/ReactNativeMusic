@@ -36,12 +36,12 @@
         "source": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\gicorbis\\android\\MusicProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",

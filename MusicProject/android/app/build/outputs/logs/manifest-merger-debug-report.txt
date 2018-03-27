@@ -26,18 +26,12 @@ MERGED from [com.facebook.react:react-native:0.52.0] C:\Users\gicorbis\android\M
 		ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:9:5-11:41
-MERGED from [y:react-native-facebook-login:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-facebook-login\unspecified\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:24:5-26:41
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\AndroidManifest.xml:20:5-44
 MERGED from [y:react-native-vector-icons:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-vector-icons\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [y:react-native-sound:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-sound\unspecified\AndroidManifest.xml:9:5-11:41
 MERGED from [y:react-native-audio-streaming:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-audio-streaming\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.52.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\AndroidManifest.xml:5:5-7:41
@@ -46,8 +40,6 @@ MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\gicorbis\android\
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:2:3-70
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:11:9-38
 		INJECTED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml
@@ -58,15 +50,10 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gicorbis\android\Mus
 		INJECTED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:13:5-30:19
-MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:28:5-38:19
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:customtabs:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [y:react-native-audio-streaming:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-audio-streaming\unspecified\AndroidManifest.xml:13:5-19:19
 MERGED from [com.facebook.react:react-native:0.52.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\org.webkit\android-jsc\r174650\AndroidManifest.xml:2:3-17
 	android:label
@@ -103,24 +90,6 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:29:7-84
 	android:name
 		ADDED from C:\Users\gicorbis\android\MusicProject\android\app\src\main\AndroidManifest.xml:29:17-81
-activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:29:9-32:66
-	android:configChanges
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:31:13-96
-	android:theme
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:32:13-63
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:30:13-57
-activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:33:9-36:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:35:13-36
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:34:13-58
-activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:37:9-71
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:37:19-68
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [y:react-native-audio-streaming:unspecified] C:\Users\gicorbis\android\MusicProject\android\app\build\intermediates\exploded-aar\y\react-native-audio-streaming\unspecified\AndroidManifest.xml:11:5-79
 	android:name
