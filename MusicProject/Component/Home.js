@@ -26,6 +26,7 @@ export default class Home extends React.Component {
     }
 
     back = () =>{
+        ReactNativeAudioStreaming.stop();
         this.setState({showList:true,show: false});
         this.setModalVisible(false);
     }

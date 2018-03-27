@@ -56,24 +56,7 @@ export default class Player extends Component {
         });
     }
 
-    _onPress() {
-        switch (this.state.status) {
-            case PLAYING:
-            case STREAMING:
-                ReactNativeAudioStreaming.pause();
-                break;
-            case PAUSED:
-                ReactNativeAudioStreaming.resume();
-                break;
-            case STOPPED:
-            case ERROR:
-                ReactNativeAudioStreaming.play(this.props.url, {showIniOSMediaCenter: true, showInAndroidNotifications: true});
-                break;
-            case BUFFERING:
-                ReactNativeAudioStreaming.stop();
-                break;
-        }
-    }
+
 
     render() {
 
